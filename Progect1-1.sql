@@ -19,3 +19,5 @@ from
 	google_ads_basic_daily
 group by
 	spend;
+
+
